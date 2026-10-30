@@ -1,0 +1,6 @@
+{
+  "name": "The Protein Calculator",
+  "description": "Evidence-informed daily protein calculator and nutrition planner designed with an Apple-inspired dark forest glass aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
